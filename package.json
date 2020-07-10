@@ -26,7 +26,7 @@
     "url": "git://github.com/e2jk/parsExtractor.git"
   },
   "devDependencies": {
-    "electron": "4.0.4",
+    "electron": "7.2.4",
     "electron-packager": "13.0.1"
   },
   "dependencies": {
