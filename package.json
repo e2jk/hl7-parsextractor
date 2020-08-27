@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "electron": "4.0.4",
-    "electron-packager": "13.0.1"
+    "electron-packager": "15.1.0"
   },
   "dependencies": {
     "hl7-dictionary": "^1.0.1"
